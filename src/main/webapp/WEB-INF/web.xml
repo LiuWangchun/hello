@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   
   
-  <servlet>
+  <!--servlet>
     <servlet-name>ServletDemo</servlet-name>
     <servlet-class>com.mystudy.servlet.ServletDemo</servlet-class>
   </servlet>
@@ -14,5 +14,5 @@
   <servlet-mapping>
     <servlet-name>ServletDemo</servlet-name>
     <url-pattern>/demo</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping>-->
 </web-app>
